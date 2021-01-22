@@ -476,7 +476,7 @@ progress {
 }
 
 .espaco{
-  height: 150px;
+  height: 100px;
 }
 .celula1{
   max-height: 100px;
@@ -519,7 +519,7 @@ progress {
 
 .icone-contato:hover{
   background-color: #1abc9c;
-  box-shadow: 1px 1px 10px rgb(150, 150, 150);
+  box-shadow: 1px 1px 5px rgb(150, 150, 150);
   transition: all .4s;
 }
 
